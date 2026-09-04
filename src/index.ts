@@ -271,7 +271,15 @@ function documentHeader(document: Awaited<ReturnType<typeof loadDocument>>) {
   };
 }
 
-/** Verbs that create a duty, in both languages. */
+/**
+ * Verbs that create a duty, in both languages.
+ *
+ * Arabic needs more than the obvious present tense form. A conditional clause
+ * switches to the perfect, "التزم بأن يؤدي", and prohibitions carry duties too.
+ * Permission verbs such as يجوز and يحق are deliberately excluded: they grant a
+ * right rather than impose one, and listing them as obligations would misstate
+ * what the contract says.
+ */
 const OBLIGATION_PATTERNS = [
   'shall',
   'must',
@@ -279,10 +287,17 @@ const OBLIGATION_PATTERNS = [
   'agrees to',
   'is required to',
   'يلتزم',
+  'تلتزم',
+  'التزم',
   'يتعهد',
+  'تتعهد',
   'يجب',
   'على الطرف',
   'يحظر',
+  'لا يجوز',
+  'يتحمل',
+  'ملزم',
+  'يقع على عاتق',
 ];
 
 /* ------------------------------------------------------------------ */
