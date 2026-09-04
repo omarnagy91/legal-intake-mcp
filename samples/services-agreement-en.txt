@@ -1,0 +1,124 @@
+PROFESSIONAL SERVICES AGREEMENT
+
+This Professional Services Agreement (the "Agreement") is made and entered into on 14 March 2025 (the "Effective Date")
+
+BETWEEN:
+
+(1) MERIDIAN COMPLIANCE ADVISORS FZ-LLC, a free zone limited liability company incorporated under the laws of the United Arab Emirates, with commercial licence number 91-447-2210 and registered office at Office 1204, Al Sarab Tower, Dubai, United Arab Emirates (the "Service Provider"); and
+
+(2) HARBOURLINE LOGISTICS LIMITED, a company incorporated under the laws of the Arab Republic of Egypt, with commercial register number 118-3097 and registered office at 22 Sharia El Nasr, Nasr City, Cairo, Egypt (the "Client").
+
+The Service Provider and the Client are referred to individually as a "Party" and collectively as the "Parties".
+
+RECITALS
+
+WHEREAS the Client operates a regional freight forwarding business and requires regulatory compliance advisory services;
+
+WHEREAS the Service Provider is engaged in the business of providing compliance advisory and licensing support services and has agreed to provide such services to the Client on the terms set out below;
+
+NOW THEREFORE the Parties agree as follows.
+
+1. DEFINITIONS AND INTERPRETATION
+
+1.1 In this Agreement, "Services" means the compliance advisory, licence renewal support and regulatory filing services described in Schedule 1.
+
+1.2 "Confidential Information" means all information disclosed by one Party to the other, whether orally, in writing or in any other form, which is designated as confidential or which a reasonable person would understand to be confidential.
+
+1.3 References to a "month" mean a calendar month, and references to "days" mean calendar days unless expressly stated to be business days.
+
+2. TERM AND RENEWAL
+
+2.1 This Agreement shall commence on 1 April 2025 (the "Commencement Date") and shall continue for an initial term of twelve (12) months, expiring on 31 March 2026 (the "Initial Term"), unless terminated earlier in accordance with Clause 8.
+
+2.2 Upon expiry of the Initial Term, this Agreement shall automatically renew for successive periods of twelve (12) months each (each a "Renewal Term") unless either Party gives written notice of non-renewal to the other Party not less than sixty (60) days prior to the end of the then current term.
+
+2.3 The fees payable during any Renewal Term shall increase by five per cent (5%) over the fees payable during the immediately preceding term, without any requirement for further agreement between the Parties.
+
+3. SERVICES
+
+3.1 The Service Provider shall provide the Services with reasonable skill and care and in accordance with the standards generally observed by professional compliance advisers in the United Arab Emirates.
+
+3.2 The Service Provider shall assign a named engagement lead to the Client and shall not replace that engagement lead without giving the Client fourteen (14) days prior written notice.
+
+3.3 The Client shall provide the Service Provider with all documents, records and access reasonably required for the performance of the Services within seven (7) days of a written request.
+
+4. FEES AND PAYMENT
+
+4.1 The Client shall pay the Service Provider a fixed annual fee of two hundred and forty thousand United Arab Emirates Dirhams (AED 240,000), payable in four equal quarterly instalments in advance.
+
+4.2 Each invoice shall be payable within thirty (30) days of the invoice date.
+
+4.3 Any sum not paid when due shall bear interest at the rate of one per cent (1%) per month, calculated on a daily basis from the due date until the date of actual payment.
+
+5. PENALTY FOR LATE DELIVERY
+
+5.1 If the Service Provider fails to deliver a regulatory filing by the date specified in Schedule 1, the Service Provider shall pay the Client liquidated damages of two thousand United Arab Emirates Dirhams (AED 2,000) for each day of delay, up to a maximum of ten per cent (10%) of the annual fee.
+
+5.2 The Parties agree that the amount specified in Clause 5.1 is a genuine pre-estimate of the loss that the Client would suffer and is not a penalty.
+
+6. CONFIDENTIALITY
+
+6.1 Each Party shall keep the Confidential Information of the other Party strictly confidential and shall not disclose it to any third party without the prior written consent of the disclosing Party.
+
+6.2 The obligations in this Clause 6 shall survive the expiry or termination of this Agreement for a period of three (3) years.
+
+7. NON-COMPETE AND NON-SOLICITATION
+
+7.1 During the term of this Agreement and for a period of twelve (12) months following its expiry or termination, the Service Provider shall not provide services substantially similar to the Services to any freight forwarding company whose registered office is located in the Arab Republic of Egypt.
+
+7.2 Neither Party shall solicit for employment any employee of the other Party who was directly involved in the performance of this Agreement, for a period of twelve (12) months after the termination of this Agreement.
+
+8. TERMINATION
+
+8.1 Either Party may terminate this Agreement for convenience by giving the other Party not less than ninety (90) days written notice.
+
+8.2 The Service Provider may terminate this Agreement with immediate effect and without liability, by written notice to the Client, if the Client fails to pay any invoice within forty five (45) days of its due date.
+
+8.3 Either Party may terminate this Agreement with immediate effect if the other Party becomes insolvent, enters into liquidation or has a receiver appointed over any part of its assets.
+
+8.4 Termination of this Agreement shall not affect any rights or liabilities which have accrued prior to the date of termination.
+
+9. LIMITATION OF LIABILITY
+
+9.1 The total aggregate liability of the Service Provider under or in connection with this Agreement shall not exceed the total fees actually paid by the Client in the twelve (12) months preceding the event giving rise to the claim.
+
+9.2 Neither Party shall be liable for any indirect, consequential or special loss, including loss of profit, loss of business or loss of anticipated savings.
+
+10. GOVERNING LAW AND DISPUTE RESOLUTION
+
+10.1 This Agreement and any dispute arising out of or in connection with it shall be governed by and construed in accordance with the laws of the United Arab Emirates as applied in the Emirate of Dubai.
+
+10.2 Any dispute arising out of or in connection with this Agreement shall be finally settled by arbitration under the Rules of Arbitration of the Dubai International Arbitration Centre (DIAC). The seat of the arbitration shall be Dubai, the language of the arbitration shall be English, and the tribunal shall consist of one (1) arbitrator.
+
+10.3 Nothing in this Clause 10 shall prevent either Party from seeking urgent interim relief from a court of competent jurisdiction.
+
+11. NOTICES
+
+11.1 Any notice under this Agreement shall be in writing and shall be delivered by hand, by internationally recognised courier, or by email to the address of the receiving Party set out in Clause 11.2.
+
+11.2 Notices to the Service Provider shall be sent to legal@example.com and notices to the Client shall be sent to contracts@example.org.
+
+12. ENTIRE AGREEMENT
+
+12.1 This Agreement constitutes the entire agreement between the Parties and supersedes all prior negotiations, representations and agreements, whether written or oral, relating to its subject matter.
+
+IN WITNESS WHEREOF the Parties have executed this Agreement on the date first written above.
+
+SIGNED for and on behalf of MERIDIAN COMPLIANCE ADVISORS FZ-LLC
+
+Name: Layla Haddad
+Title: Managing Director
+Date: 14 March 2025
+
+SIGNED for and on behalf of HARBOURLINE LOGISTICS LIMITED
+
+Name: Tarek Mansour
+Title: Chief Executive Officer
+Date: 14 March 2025
+
+SCHEDULE 1: DESCRIPTION OF SERVICES
+
+A. Quarterly regulatory compliance review and written report.
+B. Preparation and submission of the annual licence renewal file, due no later than 15 February in each year of the term.
+C. Advisory support on customs and trade compliance queries, up to twenty (20) hours per quarter.
+D. One (1) on site compliance training session per year, to be delivered before 30 September in each year of the term.

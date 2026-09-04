@@ -1,0 +1,36 @@
+{
+  "name": "legal-intake-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for bilingual Arabic and English law firm document intake. Extracts and cites, does not advise.",
+  "license": "MIT",
+  "author": "Omar G. Nagy",
+  "type": "module",
+  "bin": {
+    "legal-intake-mcp": "dist/src/index.js"
+  },
+  "main": "dist/src/index.js",
+  "files": [
+    "dist",
+    "samples",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "start": "node dist/src/index.js",
+    "test": "npm run build && node --test \"dist/test/**/*.test.js\"",
+    "demo": "npm run build && node dist/scripts/demo.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.30.0",
+    "pdfjs-dist": "4.10.38"
+  },
+  "devDependencies": {
+    "@types/node": "20.19.9",
+    "typescript": "5.7.3"
+  }
+}
