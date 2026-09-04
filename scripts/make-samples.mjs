@@ -198,6 +198,14 @@ console.log('wrote samples/services-agreement-ar.docx');
 if (buildPdf(en, false, join(samples, 'services-agreement-en.pdf'))) {
   console.log('wrote samples/services-agreement-en.pdf');
 }
-if (buildPdf(ar, true, join(samples, 'services-agreement-ar.pdf'))) {
-  console.log('wrote samples/services-agreement-ar.pdf');
-}
+
+// No Arabic PDF is generated on purpose.
+//
+// The browser engine available here writes an Arabic text layer that is wrong
+// at character level: certain shaped clusters carry their two codepoints in
+// visual rather than logical order, so الموافق extracts as املوافق and بين as
+// بني. The result is well formed Unicode that happens to be incorrect, which
+// nothing downstream can detect or repair. A sample whose words are quietly
+// transposed would contradict the rule this whole server is built on, that text
+// handed to a lawyer is text they can cite. See the README for the full finding.
+console.log('skipping the Arabic PDF on purpose, see the note in this script and in the README');
