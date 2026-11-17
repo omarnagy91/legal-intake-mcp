@@ -6,6 +6,35 @@ It turns a contract file into structured, citable context: normalised text with 
 
 **Safety line, stated plainly: this server extracts and cites. It does not give legal advice, it does not decide anything, and it does not judge whether a clause is fair or enforceable. Every item it returns carries an anchor pointing at the exact paragraph of the source document it came from, so a qualified lawyer can verify each one against the original before relying on it.**
 
+
+## 30 second demo
+
+Your contract tool reads `٦٠ يوم` and `15 رمضان 1446`. Does it?
+
+```bash
+git clone https://github.com/omarnagy91/legal-intake-mcp.git
+cd legal-intake-mcp && npm install && npm run demo
+```
+
+Real output of `npm run demo` on the bundled Arabic sample, trimmed (`extract_dates`). The Hijri date is converted, the contract's own Gregorian equivalent is kept beside it, and the notice deadline is computed with its source clause:
+
+```json
+{
+  "dates": [
+    { "raw": "١٥ رمضان ١٤٤٦", "calendar": "hijri", "iso": "2025-03-15",
+      "role": "execution", "anchor": "P2", "statedGregorian": "2025-03-14" },
+    { "raw": "٣١ مارس ٢٠٢٦", "calendar": "gregorian", "iso": "2026-03-31",
+      "role": "term_end", "anchor": "P16" }
+  ],
+  "computedDeadlines": [
+    { "period": "60 days", "direction": "before", "anchorDate": "2026-03-31",
+      "deadline": "2026-01-30", "clauseAnchor": "C12", "paragraphAnchor": "P17" }
+  ]
+}
+```
+
+What it refuses to do: it extracts and cites, and never advises. Every item carries an anchor to the paragraph it came from, and the two dates above disagree by a day on purpose, because that is what the contract says and a person should settle it.
+
 ---
 
 ## Why an MCP server is the right shape for this
